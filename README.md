@@ -26,7 +26,7 @@
     </div>
     <h1 id="about-me" class="heading">Hi 👋, I'm Manik Gupta</h1>
     <div class="container">
-      <h2 class="about-me-para">Full stack Enthusiast</h2>
+      <h2 class="about-me-para">Frontend Enthusiast</h2>
       <a href="mailto:guptamanik1810@gmail.com"
         ><img
           src="https://img.shields.io/badge/Gmail-%25230077B5.svg?logo=gmail&logoColor=red"
