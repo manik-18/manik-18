@@ -8,7 +8,7 @@
   </a>
 </div>
 
-- 🌱 Currently diving into **Spring Framework**
+- 🌱 Currently diving into **Angular**
 - 📫 Reach me at **guptamanik1810@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/16YMaiyTW763VxIzwxKSqhwu28ZvRli7d/view)
 
@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
